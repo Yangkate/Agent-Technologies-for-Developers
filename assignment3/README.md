@@ -138,3 +138,4 @@ The class fi.jyu.ties454.cleaningAgents.infra.DefaultDevices has a constant call
 Robots which are programmed using lots of randomness tend to stay in the same room for a fair amount of time because they will rarely find the door.
 
 You can copy the map in a certain state from the GUI and paste it into a text file. This file can then be loaded as the state next time.
+http://users.jyu.fi/~miselico/teaching/TIES454/exercises/exercise3/
